@@ -17,3 +17,9 @@ an exection context is an environment.
 
 // call stack?
 //call stack is created by javascript for keep tracking of multiples function calls.
+
+// single threaded ?
+// synchronous vs asynchronous?
+/*
+javascript is a single thread synchronous language but javascript can work as an asynchronous language.
+*/
