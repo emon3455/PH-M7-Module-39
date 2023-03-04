@@ -9,3 +9,11 @@ If we apply js code in chrome there is an engine called v8 engine which executes
 
 v8 is a high performance javascript and webAssable engine.
 */
+
+// what is execution context?
+/*
+an exection context is an environment.
+*/
+
+// call stack?
+//call stack is created by javascript for keep tracking of multiples function calls.
